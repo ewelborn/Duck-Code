@@ -5,3 +5,5 @@ Duck Code (or the Tarleton Programming Language) was a research project to devel
 This is a Netbeans project originally compiled using Jdk 14 on Netbeans 12.0, though there shouldn't be anything stopping you from using a different Jdk and IDE if you choose to build the project on your own machine.
 
 For more details, [visit the project page on my website](https://www.ethanwelborncs.com/ewelborn/article/tarleton-programming-language/).
+
+![Gameplay of Tarleton Programming Language prototype. There's a conveyor belt going around the level, the student's duck is sitting next to the belt and is painting red boxes blue whenever they pass by the belt.](https://i.imgur.com/tENGJq4.png)
